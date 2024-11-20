@@ -6,7 +6,7 @@
 
 ---
 
-## Presets
+## PulseEffects-Presets
 
 ### barbosa-movie (headphone)
 Com o intuito de ser um preset que atenda as exigências e demandas
@@ -36,3 +36,6 @@ O intuito dessa config é, justamente, atender as demandas e entregar um áudio 
 - **ferramentas de stereo**
 - **reverberação** [media]
 
+---
+
+## Equalizer-APO-PEACE

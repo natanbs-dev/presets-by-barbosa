@@ -1,38 +1,27 @@
-# pulseeffects-presets-by-barbosa
+# equalizador-apo-peace
 
 ## Instalação da versão mais recente e estável do projeto
 
-[pulse-effects | flathub](https://flathub.org/apps/com.github.wwmm.pulseeffects)
+[Peace Equalizer | flathub](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 
 ---
 
-## Presets
+## PEACE-EQUALIZER
 
-### barbosa-movie (headphone)
-Com o intuito de ser um preset que atenda as exigências e demandas
-que filmes com 6 canais de áudio exigem, este preset tem o intuito em dar resposta a altura ao que é exigido
+## presets
+- _**natan-preset-pessoal.peace**_
+- **_HyperX Cloud Headphones, EQ - Full (by SeenoChasm).peace_**
+- **_Creative Pebble V1 2.0 Speakers (Acoustic-Electronic, WellBeSerious).peace_**
+- **_High Boost.peace_**
+- **_High Boost 2.peace_**
 
-[!importante]
-> nele houve diferente performances quanto a distros com interfaces distintas e gerenciador de janelas diversos, que acabaram afetando o desempenho como um todo
-Nisso, foi procurado fazer um preset para cada tipo de **distro linux testada**, que atendesse as expectativas e não ficasse 'cortando' o áudio.
+### Atende a quais cenários
 
-#### Configs presets:
-- **cristalizador**
-- **equalizador** [techno]
-- **excitador**
-- **reforçar de graves** [9.5]
-- **ferramentas de stereo**
+- movies (steaming ou local)
+- songs (streaming ou local)
 
+### Estabilidade invejável
+Ao contrário do pulseeffects, que sim, tem dificuldades em se adaptar tanto a músicas que explorem o stéreo, como a canção *The Chain* - Fleetwood Mac, como também em streaming de vídeos, onde se houve um certo som de "plug" após um tempo de vídeo corrido, atrapalhando a reprodução.
 
-### preset-natan-music (caixas de som)
-O intuito dessa config é, justamente, atender as demandas e entregar um áudio com alta qualidade e performance em caixas de som stereo, que prezem pelo grave e aumentem a percepção do áudio, não ficando somente preso a essa config mais 'baixa'
-
-#### configs presets:
-
-- **cristalizador**
-- **equalizador** [ziyad_perfecteq]
-- **excitador**
-- **reforçar de graves** [6.5]
-- **ferramentas de stereo**
-- **reverberação** [media]
+Já no *Peace* é bem mais estável: nele não houve instabilidade nesses cenários, inclusive transmite frequências que os demais tentam ignorar justamente para não evidenciar suas fraquezas. O Equalizador se mostrou estável e prepardo a atuar em diversos cenários  
 

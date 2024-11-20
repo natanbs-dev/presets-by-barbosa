@@ -20,7 +20,7 @@ que filmes com 6 canais de áudio exigem, este preset tem o intuito em dar respo
 - _**excitador**_
 - _**reforçar de graves**_ [9.5]
 - _**ferramentas de stereo**_
-- **reverberação**__ [pequeno]
+- _**reverberação**_ [pequeno]
 
 
 ### preset-natan-music (caixas de som)

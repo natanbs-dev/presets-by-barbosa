@@ -8,18 +8,19 @@
 
 ---
 
-# PulseEffects-Presets
+## PULSE-EFFECTS
 
 ### barbosa-movie (headphone)
 Com o intuito de ser um preset que atenda as exigências e demandas
 que filmes com 6 canais de áudio exigem, este preset tem o intuito em dar resposta a altura ao que é exigido
 
-#### Configs presets:
-- **cristalizador**
-- **equalizador** [techno]
-- **excitador**
-- **reforçar de graves** [9.5]
-- **ferramentas de stereo**
+### Configs presets:
+- _**cristalizador**_
+- _**equalizador**_ [techno]
+- _**excitador**_
+- _**reforçar de graves**_ [9.5]
+- _**ferramentas de stereo**_
+- **reverberação**__ [pequeno]
 
 
 ### preset-natan-music (caixas de som)
@@ -38,7 +39,7 @@ O intuito dessa config é, justamente, atender as demandas e entregar um áudio 
 
 ## PEACE-EQUALIZER
 
-## presets
+### presets
 - _**natan-preset-pessoal.peace**_
 - **_HyperX Cloud Headphones, EQ - Full (by SeenoChasm).peace_**
 - **_Creative Pebble V1 2.0 Speakers (Acoustic-Electronic, WellBeSerious).peace_**

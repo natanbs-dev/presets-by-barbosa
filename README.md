@@ -2,7 +2,7 @@
 
 ## Instalação da versão mais recente e estável dos softwares
 
-[pulse-effects | flathub](https://flathub.org/apps/com.github.wwmm.pulseeffects)
+[Oulse-Effects | flathub](https://flathub.org/apps/com.github.wwmm.pulseeffects)
 
 [Peace Equalizer | flathub](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 

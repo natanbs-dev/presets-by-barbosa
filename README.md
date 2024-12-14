@@ -37,5 +37,3 @@ O intuito dessa config é, justamente, atender as demandas e entregar um áudio 
 - **reverberação** [media]
 
 ---
-
-## Equalizer-APO-PEACE

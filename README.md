@@ -47,7 +47,6 @@ O intuito dessa config é, justamente, atender as demandas e entregar um áudio 
 - **_High Boost 2.peace_**
 
 ### Atende a quais cenários
-
 - movies (steaming ou local)
 - songs (streaming ou local)
 

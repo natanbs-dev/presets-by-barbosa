@@ -27,4 +27,5 @@ Abaixo tantos as configurações originais como as modificadas:
 ### configuração acerta #2:
 **buffer:** 65536
 **latência:** 25000
+
 ---

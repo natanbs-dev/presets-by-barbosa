@@ -28,4 +28,8 @@ Abaixo tantos as configurações originais como as modificadas:
 **buffer:** 65536
 **latência:** 25000
 
+
+## Erro no gtk 
+
+Caso o erro no gtk sendo que, mesmo com o tema black, o app permaneça com o tema white, troque as configurações do app diretamente no gtk
 ---

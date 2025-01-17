@@ -3,8 +3,9 @@ Quando o áudio der uma sensão de estar "estourado", onde as frequências mais 
 
 **solução 1:**
 - diminuir a faixa de áudio do pulseeffects no pavucontrol em *dispositivos de saída*
-- para música: 69% - 59% ou menos [sendo 69 o teto]
+- para música: 69% - 49% ou menos [sendo 69 o teto; caso acima desse valor, distorce a qualidade do vocal]
 - para filmes: abaixo de 90%
+- foi notado que a interface **kde** se saiu melhor nos testes quanto as modificações no buffer e latência
 
 **solução 2:**
 - rodar o comando para reiniciar o pipewire

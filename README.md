@@ -29,7 +29,7 @@ O intuito dessa config é, justamente, atender as demandas e entregar um áudio 
 #### configs presets:
 
 - **cristalizador**
-- **equalizador** [ziyad_perfecteq]
+- **equalizador** [ziyad_perfecteq - soft - techno]
 - **excitador**
 - **reforçar de graves** [6.5]
 - **ferramentas de stereo**

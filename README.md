@@ -55,3 +55,4 @@ Ao contrário do pulseeffects, que sim, tem dificuldades em se adaptar tanto a m
 
 Já no *Peace* é bem mais estável: nele não houve instabilidade nesses cenários, inclusive transmite frequências que os demais tentam ignorar justamente para não evidenciar suas fraquezas. O Equalizador se mostrou estável e prepardo a atuar em diversos cenários  
 
+

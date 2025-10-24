@@ -269,12 +269,12 @@ Quality13=2.99
 [General]
 Description=High boost using a high shelf filter
 Configuration Icon=2
-Bass Gain=5.2
+Bass Gain=8.3
 Bass Frequency=500
 Bass Target=0
-Treble Gain=6.2
-Treble Frequency=2800
-PreAmp=-1.9
+Treble Gain=1.8
+Treble Frequency=2780
+PreAmp=-2.8
 [Speakers]
 SpeakerId0=0
 SpeakerTargets0=all

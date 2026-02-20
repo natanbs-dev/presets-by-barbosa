@@ -16,11 +16,11 @@ que filmes com 6 canais de áudio exigem, este preset tem o intuito em dar respo
 
 ### Configs presets:
 - _**cristalizador**_
-- _**equalizador**_ [techno]
-- _**excitador**_
-- _**reforçar de graves**_ [9.5]
+- _**equalizador**_ [soft]
+- _**excitador**_ [9.0]
+- _**reforçar de graves**_ [13.0]
 - _**ferramentas de stereo**_
-- _**reverberação**_ [pequeno]
+- _**reverberação**_ [medium]
 
 
 ### preset-natan-music (caixas de som)
